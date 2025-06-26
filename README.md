@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+I'm Nick Anderson Azémar (Nico Arch). Experienced Software Engineer and Tech Enthusiast.
 <!--
 
 **nico-arch/nico-arch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
